@@ -6,7 +6,9 @@ I had one week to do this test and I spent 25 hours of work (work environment se
 
 # DEMO VIDEO
 Here is a short demo clip
-
+<p align="center">
+  <img src="Assets/Video/RVR.gif">
+</p>
 
 # Gameplay
 In the main menu, the player can enter the skin section to select a color.
